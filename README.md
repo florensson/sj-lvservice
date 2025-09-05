@@ -1,2 +1,2 @@
-# sj-lvservice
+# sjalvservice
 simple click script fot sjalvservice
