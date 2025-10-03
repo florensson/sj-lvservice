@@ -3,6 +3,8 @@
 Det här är ett **enkelt, hårdkodat klick-skript** för att registrera arbetstid. Det är byggt för **en specifik laptop/skärmupplösning** och **måste köras manuellt**. Om du vill använda det på en annan dator behöver du själv justera koordinaterna. **Använd på egen risk.**
 Har du önskemål om tillägg i framtiden – säg till!
 
+2025-10-03: uppdatering för ny hemsida
+
 ---
 
 ## Förutsättningar
